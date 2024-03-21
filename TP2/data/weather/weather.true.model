@@ -1,0 +1,20 @@
+n=3
+M=3
+# *** A parameters ***
+0.7 0.2 0.1
+0.3 0.5 0.2
+0.3 0.3 0.4
+# *** B parameters ***
+0.8 0.19 0.01
+0.5 0.4 0.1
+0.01 0.2 0.79
+# *** pi parameters ***
+0.6 0.3 0.1
+# *** state vocabulary ***
+chaud
+doux
+froid
+# *** observation vocabulary ***
+été
+mi-saison
+hiver
